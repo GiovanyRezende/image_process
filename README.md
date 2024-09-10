@@ -37,6 +37,8 @@ img.weak()
 "Weakens" image intensity
 
 ## Installation
+```Assuming the package is available to install and import```
+
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_process
 
