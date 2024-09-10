@@ -1,6 +1,6 @@
 # image_process
 
-Description. 
+## Description 
 The package image_process is used to make simple image process.
 
 ## Example of use
