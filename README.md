@@ -53,4 +53,4 @@ import image_process
 ```
 
 ## Author
-GiovanyRezende
+[GiovanyRezende](github.com/GiovanyRezende)
